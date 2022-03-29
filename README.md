@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 ## 今年汇总 ✨
 
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=xyz9836&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=vision-friendly-dark&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyz9836&hide_border=true&layout=compact&theme=vision-friendly-dark&locale=cn" />
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=xyz9836&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=flag-india&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyz9836&hide_border=true&layout=compact&theme=flag-india&locale=cn" />
